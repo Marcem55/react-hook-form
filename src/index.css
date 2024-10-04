@@ -1,0 +1,23 @@
+body {
+    background-color: #101010;
+    color: #dedede;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100dvh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 100%;
+}
+
+span {
+    display: block;
+    color: tomato;
+    font-size: x-small;
+}
